@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://img.freepik.com/premium-vector/70s-cute-seamless-smiley-face-daisy-pattern-with-flowers-floral-hippie-funky-vector-background_650101-13.jpg?w=740);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}h1 {
+    text-align: center;
+}
+
+p {
+    text-align:center;
+    font-family: 'Single Day', cursive;
+    font-size:25px;
+}
+h1 {
+    text-align:center;
+    font-family: 'Single Day', cursive;
+}
+h4 {
+    text-align:center;
+    font-family: 'Single Day', cursive;
+    font-size:25px
+}
+h5 {
+    text-align:center;
+    font-family: 'Merienda', cursive;
+    font-size:large;
+}
+
+.caro {
+margin-top: 1em;
+min-height: 650px;
+}
